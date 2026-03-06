@@ -102,10 +102,6 @@ export default function Hero() {
             <HiPhone className="text-[#E8C96A]" />
             01068413284
           </span>
-          <span className="flex items-center gap-1.5 bg-white/10 backdrop-blur-sm rounded-full px-4 py-1.5 text-sm">
-            <FaGraduationCap className="text-[#E8C96A] text-lg" />
-            خبرة مع الأكاديميات
-          </span>
         </motion.div>
 
         {/* CTA buttons */}
